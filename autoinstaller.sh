@@ -2,17 +2,17 @@
 
 clear
 echo " "
-echo "##########################################################################"
-echo "#                                                                        #"
-echo "#                     AUTO INSTALLER PANEL PTERODACTYL                   #"
-echo "#                                                                        #"
-echo "#                 POWERED BY NicoStudioInc x BevaStudioInc               #"
-echo "#                                                                        #"
-echo "#                PROJECTED BY NicoStudioInc x BevaStudioInc              #"
-echo "#                                                                        #"
-echo "# Warning!, This Project Is Still In Beta Stage, Sorry For Bug Or Error. #"
-echo "#                                                                        #"
-echo "##########################################################################"
+echo "###############################################################"
+echo "#                                                             #"
+echo "#             AUTO INSTALLER PANEL PTERODACTYL                #"
+echo "#                                                             #"
+echo "#         POWERED BY NicoStudioInc x BevaStudioInc            #"
+echo "#                                                             #"
+echo "#        PROJECTED BY NicoStudioInc x BevaStudioInc           #"
+echo "#                                                             #"
+echo "# This Project Is Still In Beta Stage Sorry For Bug Or Error. #"
+echo "#                                                             #"
+echo "###############################################################"
 echo " "
 set -e
 
